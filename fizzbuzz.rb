@@ -7,7 +7,7 @@ if number % 3 == 0
  
  end 
  
-if number % 3 && number % 5 == 0
+if number % 3 &&  % 5 == 0
   "FizzBuzz"
 
 else
